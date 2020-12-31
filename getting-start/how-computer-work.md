@@ -16,8 +16,9 @@
 
 ### \[15mins\] Get familiar with command line 
 
-{% embed url="https://www.youtube.com/watch?v=5XgBd6rjuDQ" %}
+{% embed url="https://www.youtube.com/watch?v=aKRYQsKR46I" %}
 
+note:  
 
 
 ### \[30mins\] Workshop: Write your first program
