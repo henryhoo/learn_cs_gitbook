@@ -1,6 +1,6 @@
 # Git Minimal Guide
 
-### Why writing this tutorial
+## Why writing this tutorial
 
 It took me more than one year to fully master git. Before that, I can't agree more on one of the quote in [this YCombinator post](https://news.ycombinator.com/item?id=4200492):
 
@@ -16,7 +16,7 @@ This tutorial aims to only require **minimal experience in command line**, and w
 
 Side note: If you want to learn about command line, the best way is to google it: [example search](https://www.google.com/search?ei=8SBxX8PGAou8sAX084uoDw&q=learning+command+line&oq=learning+command+line&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHUPEOWPEOYI8QaABwA3gAgAFyiAFykgEDMC4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiDg5inv4rsAhULHqwKHfT5AvUQ4dUDCA0&uact=5).
 
-### How to use this tutorial
+## How to use this tutorial
 
 Git is really a _tool_, it is not a _technology_ that you need to learn for a full semester of college class like [compiler](https://en.wikipedia.org/wiki/Compiler). However, **to fully master a tool, you need to use it everyday**. It is all about an old saying --- _Practice makes perfect_.
 
@@ -28,9 +28,9 @@ To help you with this process. Each section is break down into three parts:
 * **Execution** that document what you need to run on your own computer
 * **Expected Result** that help you confirming you are running everything correctly
 
-### Let's start
+## Let's start
 
-#### Section 1: Getting start with command line and install Git
+### Section 1: Getting start with command line and install Git
 
 **Explanation**
 
@@ -55,7 +55,7 @@ You should see your current installed git version \(it might different from mine
 git version 2.24.3 (Apple Git-128)
 ```
 
-#### Section 2: Set up Git
+### Section 2: Set up Git
 
 **Explanation**
 
@@ -90,7 +90,7 @@ Initialized empty Git repository in /Users/jxh/Documents/jiaxi/learnGit/.git/
 % git config user.email "Bob@xxx.com"
 ```
 
-#### Section 3: First commit
+### Section 3: First commit
 
 **Explanation**
 
@@ -156,7 +156,7 @@ On branch master
 nothing to commit, working tree clean
 ```
 
-#### Section 4: Second commit
+### Section 4: Second commit
 
 **Explanation**
 
@@ -227,7 +227,7 @@ On branch master
 nothing to commit, working tree clean
 ```
 
-#### Section 5: Go back to V0
+### Section 5: Go back to V0
 
 **Explanation**
 
@@ -278,7 +278,7 @@ $ cat file.txt
 this is V0 content
 ```
 
-#### Section 6: Go back to V1
+### Section 6: Go back to V1
 
 **Explanation**
 
@@ -320,7 +320,7 @@ this is V0 content
 this is V1 content
 ```
 
-### Recap
+## Recap
 
 Wow~~~ We finished our first tutorial! In this section we learn to set up Git enviornoment on our laptop, created our first local repository, recorded file changes as commits and learnt to switch between different commits.
 
