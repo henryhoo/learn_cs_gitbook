@@ -8,11 +8,14 @@
 * [How computer work](getting-start/how-computer-work.md)
 * [How website work](getting-start/how-website-work.md)
 
+## Programming Language
+
+* [Python Bascis](programming-language/python-bascis.md)
+* [C++ Bascis](programming-language/c++-bascis.md)
+
 ## Git
 
 * [Git Minimal Guide](git/git-minimal-guide.md)
-
-## Python
 
 ## Data structure & Algorithms
 
