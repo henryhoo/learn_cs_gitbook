@@ -10,8 +10,8 @@
 
 ## Programming Language
 
-* [Python Bascis](programming-language/python-bascis.md)
-* [C++ Bascis](programming-language/c++-bascis.md)
+* [C++: Array is pointer](programming-language/c++-array-is-pointer.md)
+* [C++: Array Pointers](programming-language/c++-bascis.md)
 
 ## Git
 
